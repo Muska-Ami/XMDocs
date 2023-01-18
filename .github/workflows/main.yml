@@ -17,7 +17,7 @@ jobs:
 
       - name: Install requirement.txt
         run: |
-          pip install -r requirements.txt
+          pip install -r requirement.txt
     
       - name: Build Docs
         run: |

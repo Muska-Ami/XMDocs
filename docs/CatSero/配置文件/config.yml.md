@@ -1,3 +1,6 @@
+---
+title: config.yml
+---
 ```yaml
 # CatSero Plugin Config
 # Generate by CatSero v@plugin.version@

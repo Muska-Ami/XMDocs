@@ -1,3 +1,6 @@
+---
+title: trchat.yml
+---
 ```yaml
 # 聊天转发
 chat-forward:

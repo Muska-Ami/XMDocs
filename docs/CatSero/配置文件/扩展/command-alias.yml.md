@@ -1,3 +1,6 @@
+---
+title: command-alias.yml
+---
 ```yaml
 # CatSero QQ CommandAlias Config
 # Generate by CatSero v@plugin.version@

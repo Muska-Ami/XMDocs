@@ -6,8 +6,8 @@ title: 导航
 
 ## 风雨阁Storm Pavilion
 
-点击阅读：[阅读](风雨阁Storm Pavilion)
+点击阅读：[阅读](../风雨阁Storm Pavilion)
 
 ## CatSero
 
-点击阅读：[阅读](CatSero)
+点击阅读：[阅读](../CatSero)

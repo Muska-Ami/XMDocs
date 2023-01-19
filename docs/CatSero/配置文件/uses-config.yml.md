@@ -1,3 +1,6 @@
+---
+title: uses-config.yml
+---
 ```yaml
 # CatSero UsesConfig
 # Generate by CatSero v@plugin.version@

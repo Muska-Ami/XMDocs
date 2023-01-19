@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CatSero/指南/Group.md",
+                "file": "CatSero/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CatSero/指南/Group.md",
+            "file": "CatSero/README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CatSero/指南/Group.md",
+            "file": "CatSero/README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CatSero/指南/Group.md"
+            "file": "CatSero/README.md"
           }
         }
       }
@@ -123,15 +123,15 @@
   },
   "active": "82615e8ebc786ca4",
   "lastOpenFiles": [
-    "CatSero/README.md",
-    "CatSero/指南/Bot.md",
-    "CatSero/配置文件/扩展/command-alias.yml.md",
-    "CatSero/配置文件/扩展/trchat.yml.md",
+    "CatSero/指南/SQL.md",
+    "CatSero/指南/QQOp.md",
     "CatSero/配置文件/uses-config.yml.md",
     "CatSero/配置文件/config.yml.md",
-    "guide.md",
-    "Group配置指南.md",
+    "CatSero/配置文件/扩展/trchat.yml.md",
+    "CatSero/配置文件/扩展/command-alias.yml.md",
+    "CatSero/README.md",
     "CatSero/指南/Group.md",
-    "CatSero/配置文件.md"
+    "CatSero/指南/Bot.md",
+    "guide.md"
   ]
 }

@@ -1,4 +1,5 @@
 # Group配置指南
+
 Group配置位于 `mirai-configs/group.yml`
 
 首次打开，您应该会看到如下内容

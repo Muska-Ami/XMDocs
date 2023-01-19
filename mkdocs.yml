@@ -20,3 +20,10 @@ theme:
 plugins:
   - search
 copyright: Copyright &copy; 2023 XiaMoHuaHuo_CN.
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      auto_title: true
+      linenums: true
+      anchor_linenums: true
+  - pymdownx.superfences

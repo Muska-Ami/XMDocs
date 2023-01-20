@@ -46,3 +46,8 @@ Gitee：[https://gitee.com/XiaMoHuaHuo-CN/CatSero](https://gitee.com/XiaMoHuaHuo
 MCBBS：[https://www.mcbbs.net/thread-1342417-1-1.html](https://www.mcbbs.net/thread-1342417-1-1.html)
 
 KLPBBS：[https://klpbbs.com/thread-43498-1-1.html](https://klpbbs.com/thread-43498-1-1.html)
+
+## bStats
+
+[https://bstats.org/plugin/bukkit/CatSero/14767](https://bstats.org/plugin/bukkit/CatSero/14767)
+<a href="https://bstats.org/plugin/bukkit/CatSero/14767">![https://bstats.org/plugin/bukkit/CatSero/14767](https://bstats.org/signatures/bukkit/CatSero.svg)</a>

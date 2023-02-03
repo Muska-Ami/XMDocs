@@ -18,6 +18,8 @@ type: sqlite
 
 将 `jdbc.mysql-class-name` 设置为正确的 JDBC 类名(一般保持默认即可)，并将 `type` 设置为 `mysql`
 
+并正确配置MySQL数据库信息
+
 - 旧版 JDBC Class
   `com.mysql.jdbc.Driver`
 - 新版 JDBC Class

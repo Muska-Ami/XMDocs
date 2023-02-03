@@ -9,7 +9,9 @@
 ## mirai配置
 
 Bot配置：[mirai-configs/bot.yml](mirai/bot.yml.md)
+
 Group配置：[mirai-configs/group.yml](mirai/group.yml.md)
+
 QQOp配置：[mirai-configs/qq-op.yml](mirai/qq-op.yml.md)
 
 ## 扩展配置

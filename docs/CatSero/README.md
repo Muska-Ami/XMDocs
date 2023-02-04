@@ -31,6 +31,10 @@ MCBBS：[https://www.mcbbs.net/thread-1342417-1-1.html](https://www.mcbbs.net/th
 
 KLPBBS：[https://klpbbs.com/thread-43498-1-1.html](https://klpbbs.com/thread-43498-1-1.html)
 
+## 仓库统计
+
+![Alt](https://repobeats.axiom.co/api/embed/67312323a923afc753db550976094b3ad4de7c8d.svg "Repobeats analytics image")
+
 ## bStats
 
 [https://bstats.org/plugin/bukkit/CatSero/14767](https://bstats.org/plugin/bukkit/CatSero/14767)

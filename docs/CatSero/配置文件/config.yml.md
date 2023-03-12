@@ -16,6 +16,9 @@ bstats: true
 # HTTP API
 http-api: false
 
+# Debug日志
+debug-log: false
+
 # 检查更新
 check-update:
   # 功能开关
@@ -25,15 +28,8 @@ check-update:
   # 单位: 秒
   interval: 3600
   # 版本模式
+  # latest | dev
   mode: latest
   # 检查更新服务器API地址，一般情况请勿修改
   api-url: https://api.huahuo-cn.tk/mcplugins/CatSero/version
-
-# 自定义QQ命令头
-command-prefix:
-  # 功能开关
-  # true | false
-  enable: false
-  # 命令头
-  prefix: ""
 ```

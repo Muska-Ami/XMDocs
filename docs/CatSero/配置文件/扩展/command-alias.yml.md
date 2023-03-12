@@ -9,13 +9,22 @@ title: command-alias.yml
 
 # 功能开关
 # true | false
+enable: true
+
+# VillaX
+# 自定义QQ命令头
+command-prefix:
+# 功能开关
+# true | false
 enable: false
+# 命令头
+prefix: "server"
 
 # 别名列表
 tps:
-  - ctps
+- ctps
 list:
-  - clist
+- clist
 whitelist:
-  - cwl
+- cwl
 ```

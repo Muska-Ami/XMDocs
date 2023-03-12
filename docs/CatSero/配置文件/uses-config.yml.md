@@ -23,7 +23,8 @@ chat-forward:
     # BotID
     bot: hello-bot
     # GroupID
-    group: hello-group
+    groups:
+      - hello-group
   # 自动清理样式代码
   clean-stylecode:
     to-mc: false
@@ -46,6 +47,14 @@ chat-forward:
     # 功能开关
     # true | false
     enable: false
+    # 自动更新列表
+    auto-update:
+      # 功能开关
+      # true | false
+      enable: true
+      # 更新间隔
+      # 单位: 秒
+      interval: 300
     # 列表
     list:
       # 原生的列表
@@ -90,7 +99,8 @@ send-player-join-quit:
     # BotID
     bot: hello-bot
     # GroupID
-    group: hello-group
+    groups:
+      - hello-group
   # 格式
   # 内置占位符:
   # - %player% 加入玩家名称
@@ -112,7 +122,8 @@ send-player-death:
     # BotID
     bot: hello-bot
     # GroupID
-    group: hello-group
+    groups:
+      - hello-group
   # 格式
   # 内置占位符:
   # - %player%  玩家名
@@ -122,7 +133,7 @@ send-player-death:
   need-permission: false
 
 # 新人加入群欢迎
-new-group-member:
+new-group-member-notification:
   # 功能开关
   # true | false
   enable: false
@@ -131,7 +142,8 @@ new-group-member:
     # BotID
     bot: hello-bot
     # GroupID
-    group: hello-group
+    groups:
+      - hello-group
   # 格式
   # 内置占位符:
   # - %at%  @新成员
@@ -148,7 +160,8 @@ send-advancement:
     # BotID
     bot: hello-bot
     # GroupID
-    group: hello-group
+    groups:
+      - hello-group
   # 格式
   # 内置占位符:
   # = %player%  玩家名
@@ -168,7 +181,8 @@ get-tps:
     # BotID
     bot: hello-bot
     # GroupID
-    group: hello-group
+    groups:
+      - hello-group
 
 # 在线玩家获取
 get-online-list:
@@ -180,7 +194,8 @@ get-online-list:
     # BotID
     bot: hello-bot
     # GroupID
-    group: hello-group
+    groups:
+      - hello-group
   # 格式
   format:
     # 无论是否有玩家在线都会发送
@@ -208,7 +223,8 @@ qwhitelist:
     # BotID
     bot: hello-bot
     # GroupID
-    group: hello-group
+    groups:
+      - hello-group
   # 检查是否在群内
   # 若存在白名单但不在群内则视为无
   check-if-on-group: true
@@ -227,7 +243,7 @@ qwhitelist:
   regex: "^[A-Za-z0-9_]+$"
 
 # 离群提示
-group-member-leave:
+group-member-leave-notification:
   # 功能开关
   # true | false
   enable: false
@@ -236,10 +252,24 @@ group-member-leave:
     # BotID
     bot: hello-bot
     # GroupID
-    group: hello-group
+    groups:
+      - hello-group
   # 格式
   # 内置占位符:
   # - %name%  名称
   # - %code%  QQ号
   format: "%name%（%code%）离开了本群"
+
+# QQ命令执行
+qcmd:
+  # 功能开关
+  # true | false
+  enable: false
+  # Bot & Group设置
+  var:
+    # BotID
+    bot: hello-bot
+    # GroupID
+    groups:
+    - hello-group
 ```

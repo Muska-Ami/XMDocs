@@ -271,5 +271,35 @@ qcmd:
     bot: hello-bot
     # GroupID
     groups:
-    - hello-group
+      - hello-group
+
+# QQ群占位符
+info-placeholder:
+  # 功能开关
+  # true | false
+  enable: false
+  # Bot & Group设置
+  var:
+    # BotID
+    bot: hello-bot
+    # GroupID
+    groups:
+      - hello-group
+  # 插件应该自动更新哪个内容的名称
+  # (group|bot)
+  should-updates:
+    - group
+    - bot
+  # 更新间隔
+  # 单位: 秒
+  interval:
+    # 群名称
+    title: 30
+    # Bot群名称
+    bot-name: 60
+  # 群名称格式
+  format:
+    titles:
+      hello-group: '%origin% - 在线: %player_limit%/%player_max%'
+      bot-name: "%origin% - TPS: %server_tps%"
 ```

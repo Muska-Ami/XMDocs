@@ -6,8 +6,8 @@ theme:
   palette:
     primary: white
     accent: deep purple
-  favicon: https://huahuo-cn.tk/images/favicon.png
-  logo: https://huahuo-cn.tk/images/favicon.png
+  favicon: https://blog.ovome.icu/images/favicon.png
+  logo: https://blog.ovome.icu/images/favicon.png
   icon:
     repo: fontawesome/brands/github
   features:

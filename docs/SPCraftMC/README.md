@@ -3,6 +3,8 @@ title: 外置登录指南
 ---
 # 外置登录指南
 
+> **SPCraftMC 的外置登录由 红石皮肤站 以及 StarSkin 提供，红石皮肤站的配置文档如下，StarSkin 的配置请移步到 <a href="https://docs.star-skin.cn">StarSkin Docs</a>**
+
 ## 一. 通用步骤
 ### 1. 登录<a href="https://mcskin.cn/"> 红石皮肤站</a>，地址为 https://mcskin.cn，注册并登录皮肤站，完成邮箱验证，否则无法正常使用相关功能。
 ![登录页面](https://pic-up.star-skin.cn/i/2023/06/28/951959f1-1d7c-c383-0196-427f1582ba13.png)

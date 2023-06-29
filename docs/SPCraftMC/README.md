@@ -1,5 +1,13 @@
-# SPCraftMC 游玩指南 Plus
+# 风雨阁Storm Pavilion文档
 
- SPCraftMC 游玩指南Plus，解决您在SPCreaft里的所有问题。我们坚持：**只有您没有遇到过的难题！没有游玩指南Plus解决不了的问题！**
+风雨阁Storm Pavilion文档
 
-点这里：[https://docs.ovome.icu/SPCraftMC/](https://docs.ovome.icu/SPCraftMC/)  
+官网: [https://spcraft.ml/](https://spcraft.ml/)
+
+文档：[https://docs.ovome.icu/SPCraftMC/](https://docs.ovome.icu/SPCraftMC/)
+
+Github：[https://github.com/SPCraftMC](https://github.com/SPCraftMC)
+
+QQ群聊：[点击加入群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=o2zsHI3pOUaje0GJdE1fo1pfnoG9R1Gf&authKey=oeBH5R6tXmSG2I%2FlkQH9VJGIFQbizJnwl%2BpwpwkcWcd3sKI2jFEv0ihp8ah4X78u&noverify=0&group_code=1165489597)
+
+QQ频道：[点击加入频道](https://pd.qq.com/s/2t7jf0z3k)
